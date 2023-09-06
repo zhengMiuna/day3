@@ -1,1 +1,1 @@
-# day3
+main.rs中有3个test的实现，直接cargo run即可看到结果
